@@ -1,0 +1,14 @@
+1 Me_Before_You Jojo_Moyes 563
+2 Sonsuzluk_Kitabi Jane_Austen 480
+3 Hayvan_Mezarligi Stephan_King 435
+4 Calinan_Zaman Alice 256
+5 Romeo_ve_Juliet William_Shakespeare 230
+6 Savas_ve_Baris L._Tolstoy 1200
+7 Ask_ve_Gurur Jane_Austen 320
+8 Don_Kisot M._Cervantes 168
+9 Simyaci Paulo_Coelho 235
+10 Nutuk Mustafa_Kemal_Ataturk 720
+11 Dorian_Grey Arthur_Wilde 245
+12 Sinekli_Bakkal Halide_Edip_Adıvar 893
+13 1984 George_Owrell 185
+14 efenin yolu osman efe 13
